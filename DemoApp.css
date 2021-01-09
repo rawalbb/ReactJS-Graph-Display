@@ -1,0 +1,21 @@
+.DemoApp-title {
+  text-align: center;
+  color:#66B5B8;
+  font-size:40px;
+  margin-top: 25px;
+  font-family: "Arial";
+}
+
+
+.DemoApp-header {
+  background-color: #282c34;
+  color:khaki;
+  font-size: x-large;
+  text-align: center;
+  font-family: "Arial";
+}
+
+.Graph-title{
+  color:"#C4A93B";
+  font-family: "Arial";
+}
